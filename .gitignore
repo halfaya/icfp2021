@@ -1,2 +1,2 @@
-*.agdai
-MAlonzo/**
+.mscbackup
+.DS_Store
