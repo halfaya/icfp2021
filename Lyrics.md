@@ -19,6 +19,11 @@ Nor do they escape their defining scope.
 [Synthesizing Structured CAD Models with Equality Saturation and Inverse
 Transformations](https://homes.cs.washington.edu/~cnandi/docs/pldi20-cr.pdf)
 
+how an E-graph can compactly\
+applying rewrites\
+affine signature of each eclass as the\
+slightly perturbed Caddy
+
 ## Chorus
 
 XX and XX and XX and XX\
