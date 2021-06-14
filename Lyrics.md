@@ -24,6 +24,11 @@ applying rewrites\
 affine signature of each eclass as the\
 slightly perturbed Caddy
 
+When I wish to synthesize\
+code for 3D printing\
+I simply apply an inverse transformation\
+And then I get what I want
+
 ## Chorus
 
 XX and XX and XX and XX\
