@@ -12,6 +12,13 @@ Nor do they escape their defining scope.
 
 ## Verse 2
 
+[Refinement Types for Haskell](https://dl.acm.org/doi/10.1145/2628136.2628161)
+
+Encoding invariants using refinements\
+How can we check them with lazy semantics?\
+If we know which binders do not terminate\
+We can make type checking decidable.
+
 ## Verse 3
 
 ## Verse 4 (Bridge)
