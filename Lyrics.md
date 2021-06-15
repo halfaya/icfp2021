@@ -16,8 +16,8 @@ Nor do they escape their defining scope.
 
 Encoding invariants using refinements\
 How can we check them with lazy semantics?\
-If we know which binders do not terminate\
-We can make type checking decidable.
+We don't know which binders do not terminate\
+Unless we label them explicitly.
 
 ## Verse 3
 
