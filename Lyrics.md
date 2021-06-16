@@ -14,10 +14,10 @@ Nor do they escape their defining scope.
 
 [Refinement Types for Haskell](https://dl.acm.org/doi/10.1145/2628136.2628161)
 
-Encoding invariants using refinements\
-How can we check them with lazy semantics?\
-We don't know which binders do not terminate\
-Unless we label them explicitly.
+Refinement type system designed for Haskell\
+Type checking using an SMT solver\
+Soundness is hard due to lazy semantics\
+We must know which binders do not terminate\
 
 ## Verse 3
 
