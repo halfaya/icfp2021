@@ -38,7 +38,7 @@ And then I get what I want
 
 ## Chorus
 
-Monads and XX and XX and XX\
-XX and presheaves and XX and XX\
-XX and X and commutative rings.\
+Monad transformers and Racket and handlers\
+Tuples and presheaves and closures and liftings\
+ML and types and commutative rings.\
 These are a few of my favorite things.
