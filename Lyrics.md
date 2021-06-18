@@ -42,3 +42,8 @@ Monad transformers and Racket and handlers\
 Tuples and presheaves and closures and liftings\
 ML and types and commutative rings.\
 These are a few of my favorite things.
+
+Monad transformers and ...\
+Closures and erasures and termination measures\
+... that form commutative rings.\
+These are a few of my favorite things.
