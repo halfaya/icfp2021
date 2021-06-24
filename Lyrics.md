@@ -38,11 +38,15 @@ And then I get what I want
 
 ## Chorus
 
-Monad transformers and Racket and handlers\
-Tuples and presheaves and closures and liftings\
-ML and types and commutative rings.\
+[John]\
+Monad transformers and macros and handlers\
+Tuples and presheaves and liftings and closures\
+Soundness and types and commutative rings.\
 These are a few of my favorite things.
 
+[Other words: logic, lambda, fuel, ...]
+
+[Youyou]\
 Monad transformers and ...\
 Closures and erasures and termination measures\
 ... that form commutative rings.\
