@@ -12,14 +12,14 @@ Nor do they escape their defining scope.
 
 ## Verse 2
 
+## Verse 3
+
 [Refinement Types for Haskell](https://dl.acm.org/doi/10.1145/2628136.2628161)
 
 Refinement type system designed for Haskell\
 Type checking using an SMT solver\
 Soundness is hard due to lazy semantics\
-We must know which binders do not terminate\
-
-## Verse 3
+We must know which binders do not terminate
 
 ## Verse 4 (Bridge)
 
@@ -41,7 +41,7 @@ And then I get what I want
 [John]\
 Monad transformers and macros and handlers\
 Tuples and presheaves and liftings and closures\
-Soundness and types and commutative rings.\
+Multisets, joins and commutative rings.\
 These are a few of my favorite things.
 
 [Other words: logic, lambda, fuel, ...]
