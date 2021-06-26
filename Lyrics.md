@@ -38,16 +38,7 @@ And then I get what I want
 
 ## Chorus
 
-[John]\
 Monad transformers and macros and handlers\
-Tuples and presheaves and liftings and closures\
-Multisets, joins and commutative rings.\
-These are a few of my favorite things.
-
-[Other words: logic, lambda, fuel, ...]
-
-[Youyou]\
-Monad transformers and ...\
-Closures and erasures and termination measures\
-... that form commutative rings.\
+Tuples and presheaves and posets and closures\
+Liftings and joins and commutative rings.\
 These are a few of my favorite things.
