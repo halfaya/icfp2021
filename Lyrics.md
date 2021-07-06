@@ -26,29 +26,10 @@ We must know which binders do not terminate
 [Synthesizing Structured CAD Models with Equality Saturation and Inverse
 Transformations](https://homes.cs.washington.edu/~cnandi/docs/pldi20-cr.pdf)
 
-[John]\
-how an E-graph can compactly\
-applying rewrites\
-affine signature of each eclass as the\
-slightly perturbed Caddy
-
-[Youyou]\
-When I wish to synthesize code\
-for 3D printing\
-(I) simply apply an inverse transformation\
-And then I get what I want
-
-[Chandra (verse rather than bridge)]\
-Egraphs and rewrites for program synthesis
-Finding folds and maps from long flat Caddys
-Dynamic patterns come to the rescue
-Inverse transformations fight AC matching
-
-[Proposal]\
-Egraphs, rewrites for synthesis (4 + 4)\
-folds [or maps] from flat Caddys (5)\
-Dynamic patterns come to the rescue us- (11)\
-ing inverse transformations (7)
+Egraphs, rewrites for synthesis\
+folds from flat Caddys\
+Dynamic patterns come to the rescue us-\
+ing inverse transformations
 
 ## Chorus
 
