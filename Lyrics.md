@@ -12,6 +12,13 @@ Nor do they escape their defining scope.
 
 ## Verse 2
 
+[Reigniting Fuse, an Online Partial Evaluator for Scheme](SchemeWorkshopSubmission2019.pdf)
+
+Running programs before compilation is\
+what is known as partial evaluation\
+Fuse is a partial evaluator\
+terminating on recursive functions
+
 ## Verse 3
 
 [Refinement Types for Haskell](https://dl.acm.org/doi/10.1145/2628136.2628161)
