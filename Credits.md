@@ -2,7 +2,7 @@
 
 Acting/Lyrics: Youyou Cong, Paulette Koronkevich, Niki Vazou, Chandrakana Nandi
 
-Filmed by: [Youyou's mother], ???, Blanca Gutiérrez (with Kyveli Doveri), John Leo
+Filmed by: [Youyou's mother], Joseph Wonsil, Blanca Gutiérrez (with Kyveli Doveri), John Leo
 
 Special appearance: Zachary Tatlock
 
