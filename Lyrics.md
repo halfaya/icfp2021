@@ -25,8 +25,8 @@ terminating on recursive functions
 
 Refinement type system designed for Haskell\
 Type checking using an SMT solver\
-Soundness is hard due to lazy semantics\
-We must know which binders do not terminate
+Soundness is hard with lazy semantics\
+We must know which binders don't terminate
 
 ## Verse 4 (Bridge)
 
