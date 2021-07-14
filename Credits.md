@@ -2,7 +2,7 @@
 
 Acting/Lyrics: Youyou Cong, Paulette Koronkevich, Niki Vazou, Chandrakana Nandi
 
-Filmed by: [Youyou's mother], Joseph Wonsil, Blanca Gutiérrez (with Kyveli Doveri), John Leo
+Filmed by: Jin Chen, Joseph Wonsil, Blanca Gutiérrez (with Kyveli Doveri), John Leo
 
 Special appearance: Zachary Tatlock
 
@@ -14,6 +14,6 @@ Percussion: John Leo
 
 Chorus: Youyou Cong, Sukyoung Ryu, James Wilcox, ... [in order of submission]
 
-ICFP logo: ???
+ICFP logo: Ayumu Saito
 
 Directed by: Youyou Cong and John Leo
