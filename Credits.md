@@ -1,7 +1,7 @@
 ICFP 2021 Video\
 **Our Favorite Things**
 
-Acting/Lyrics: Youyou Cong, Paulette Koronkevich, Niki Vazou, Chandrakana Nandi
+Acting / Lyrics: Youyou Cong, Paulette Koronkevich, Niki Vazou, Chandrakana Nandi
 
 Filmed by: Jin Chen, Joseph Wonsil, Blanca Gutiérrez (with Kyveli Doveri), John Leo
 
@@ -9,7 +9,7 @@ Special appearance: Zachary Tatlock
 
 Music: *My Favorite Things* by Richard Rodgers, *Buksori II* by Dong Suk Kim
 
-Arrangement/Piano/Vocals: Youyou Cong
+Arrangement / Piano / Vocals: Youyou Cong
 
 Percussion: John Leo
 
