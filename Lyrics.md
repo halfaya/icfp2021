@@ -7,7 +7,7 @@ Whatever.](https://dl.acm.org/doi/pdf/10.1145/3341643)
 
 Compiling programs in CPS or not\
 We all need some form of continuations.\
-They never return as regular functions\
+They don't return as regular functions\
 Nor do they escape their defining scope.
 
 ## Verse 2
