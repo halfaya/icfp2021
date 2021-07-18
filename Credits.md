@@ -13,7 +13,7 @@ Arrangement / Piano / Vocals: Youyou Cong
 
 Percussion: John Leo
 
-Chorus: Youyou Cong, Sukyoung Ryu, James Wilcox, Daniel Marshall, Yuxuan Mei, Joe Cutler, Sandro Stucki, Chandrakana Nandi, Benjamin Chetioui, David Moon, Liam O'Connor, John Leo [more?]
+Chorus: Youyou Cong, Sukyoung Ryu, James Wilcox, Daniel Marshall, Yuxuan Mei, Joe Cutler, Sandro Stucki, Chandrakana Nandi, Benjamin Chetioui, David Moon, Liam O'Connor, Paulette Koronkevich, John Leo
 
 ICFP logo: Ayumu Saito
 
