@@ -22,9 +22,10 @@ Favorite Things* from *The Sound of Music*. In addition, since the
 conference was originally to be in Korea, we incorporated some
 traditional Korean percussion. John had performed in the Music of
 Korea ensemble while a grad student at UCLA, so we incorporated the
-[samulnori](https://en.wikipedia.org/wiki/Samul_nori) instruments and
-rhythm of a brief section of *Buksori II* by Dong Suk Kim, which he
-performed (on buk) under the direction of the composer.
+rhythm of a brief section of the
+[samulnori](https://en.wikipedia.org/wiki/Samul_nori) work *Buksori
+II* by Dong Suk Kim, which John had performed (on buk) under the
+direction of the composer.
 
 (More to follow.)
 
