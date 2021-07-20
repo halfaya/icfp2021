@@ -17,7 +17,7 @@ considered a
 for the 2020 video, and the story of this one connects both to that
 and the POPL video.
 
-We used the song were were planning to write a parody to, *My Favorite
+We used the song we were planning to write a parody to, *My Favorite
 Things* from *The Sound of Music*. In addition, since the conference
 was originally to be in Korea, we incorporated some traditional Korean
 percussion. John had performed in the Music of Korea ensemble while a
