@@ -55,7 +55,7 @@ individual segment uses a different instrument of the samulnori, while
 the chorus combines all of them.
 
 The final chorus is intended to be a celebration of the conference
-itself. It ends deliberately on a half-cadence; if you want the final
+itself. It ends deliberately on a half cadence; if you want the final
 cadence you'll have attend the conference yourself!
 
 
