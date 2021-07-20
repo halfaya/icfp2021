@@ -2,8 +2,9 @@ ICFP 2021 Video\
 **Our Favorite Things**\
 Background
 
-This video was a collaborabration between Youyou Cong and John Leo,
-with the help of many other [people](Credits.md). We worked together on the [ICFP
+This [video](https://www.youtube.com/watch?v=nzcMpLkkCrc) was a
+collaborabration between Youyou Cong and John Leo, with the help of
+many other [people](Credits.md). We worked together on the [ICFP
 2020](https://www.youtube.com/watch?v=Fte5wwnwCws) video, and Youyou
 suggested doing something new for ICFP 2021. The initial idea was to
 do another song parody as in the previous video and the two for [PLDI
@@ -26,5 +27,36 @@ rhythm of a brief section of the
 II* by Dong Suk Kim, which John had performed (on buk) under the
 direction of the composer.
 
-(More to follow.)
+Below are some of our thoughts as we created the video. We've
+intentionally left the interpretation up to the viewer, so if you'd
+prefer to not be influenced by our own perspective then read no
+further!
+
+The basic idea is that as the pandemic is coming to an end, four
+researchers in different parts of the world return to their offices
+after a long absence, searching for "favorite things" to bring to
+ICFP. Although the conference is still virtual, there is a sense of
+hope that life is starting to return to normal. Concretely the special
+things are specific papers they have authored, each corresponding to a
+letter in ICFP. However what they are really bringing is themselves,
+their background and expertise, and their collaboration with other
+researchers.
+
+We sent instructions to the actors with basic guidelines but offered a
+lot of freedom in the details, and were rewarded with many beautiful
+artistic touches in each of the segments, as can easily be appreciated
+in the final video.
+
+The lyrics were also written by the actors following the rhythm of the
+song, and are to represent thoughts going through their heads as they
+search for the paper. The Korean percussion can be thought of as the
+"voice" of ICFP calling each person back to the conference. Each
+individual segment uses a different instrument of the samulnori, while
+the chorus combines all of them.
+
+The final chorus is intended to be a celebration of the conference
+itself. It ends deliberately on a half-cadence; if you want the final
+cadence you'll have attend the conference yourself!
+
+
 
