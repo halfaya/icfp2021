@@ -47,10 +47,10 @@ lot of freedom in the details, and were rewarded with many beautiful
 artistic touches in each of the segments, as can easily be appreciated
 in the final video.
 
-The lyrics were also written by the actors following the rhythm of the
-song, and are to represent thoughts going through their heads as they
-search for the paper. The Korean percussion can be thought of as the
-"voice" of ICFP calling each person back to the conference. Each
+The lyrics were written by the actors following the rhythm of the
+song, and are meant to represent thoughts going through their heads as
+they search for the paper. The Korean percussion can be thought of as
+the "voice" of ICFP calling each person back to the conference. Each
 individual segment uses a different instrument of the samulnori, while
 the chorus combines all of them.
 
