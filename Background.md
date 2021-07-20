@@ -36,7 +36,7 @@ The basic idea is that as the pandemic is coming to an end, four
 researchers in different parts of the world return to their offices
 after a long absence, searching for "favorite things" to bring to
 ICFP. Although the conference is still virtual, there is a sense of
-hope that life is starting to return to normal. Concretely the special
+hope that life is starting to return to normal. Concretely the favorite
 things are specific papers they have authored, each corresponding to a
 letter in ICFP. However what they are really bringing is themselves,
 their background and expertise, and their collaboration with other
