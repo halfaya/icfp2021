@@ -4,7 +4,7 @@ Background
 
 This [video](https://www.youtube.com/watch?v=nzcMpLkkCrc) was a
 collaborabration between Youyou Cong and John Leo, with the help of
-many other [people](Credits.md). We worked together on the [ICFP
+many other [people](Credits.md). We had worked together on the [ICFP
 2020](https://www.youtube.com/watch?v=Fte5wwnwCws) video, and Youyou
 suggested doing something new for ICFP 2021. The initial idea was to
 do another song parody as in the previous video and the two for [PLDI
